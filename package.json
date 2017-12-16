@@ -1,0 +1,27 @@
+{
+  "name": "zeller",
+  "version": "1.0.0",
+  "description": "Zeller's congruence is an algorithm devised by Christian Zeller to calculate the day of the week for any Julian or Gregorian calendar date.",
+  "main": "zeller.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franceskynov/zeller.git"
+  },
+  "keywords": [
+    "Algorithm",
+    "congruence",
+    "calendar",
+    "date",
+    "zeller",
+    "magic"
+  ],
+  "author": "franceskynov <franceskynov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Franceskynov/zeller/issues"
+  },
+  "homepage": "https://github.com/Franceskynov/zeller#readme"
+}
