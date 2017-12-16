@@ -34,5 +34,14 @@
         "jeudi",
         "vendredi",
         "samedi"
+    ],
+    "italian": [
+        "domenica",
+        "lunedì",
+        "martedì",
+        "mercoledì",
+        "giovedì",
+        "venerdì",
+        "sabato"
     ]
 }

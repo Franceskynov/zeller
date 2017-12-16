@@ -20,6 +20,7 @@ This module require three parameters for work and fourth for the language.
 |Catalan | ca |
 |English | en |
 |French  | fr |
+|Italian | it |
 |Spanish | es |
 
 ## Example
