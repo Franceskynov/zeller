@@ -1,6 +1,6 @@
 {
   "name": "zeller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zeller's congruence is an algorithm devised by Christian Zeller to calculate the day of the week for any Julian or Gregorian calendar date.",
   "main": "zeller.js",
   "scripts": {

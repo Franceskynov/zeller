@@ -16,5 +16,14 @@
         "Thursday",
         "Friday",
         "Saturday"
+    ],
+    "french": [
+        "dimanche",
+        "lundi",
+        "mardi",
+        "mercredi",
+        "jeudi",
+        "vendredi",
+        "samedi"
     ]
 }
