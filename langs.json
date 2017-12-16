@@ -1,4 +1,13 @@
 {
+    "catalan": [
+        "diumenge",
+        "dilluns",
+        "dimarts",
+        "dimecres",
+        "dijous",
+        "divendres",
+        "dissabte"
+    ],
     "spanish": [
         "Domingo",
         "Lunes",

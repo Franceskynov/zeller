@@ -54,6 +54,10 @@ function congruence(day, month, year, lang) {
 
             switch (lang) {
 
+                case "ca":
+                    return langs.catalan[d];
+                    break;
+
                 case "es":
                     return langs.spanish[d];
                     break;

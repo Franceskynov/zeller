@@ -11,7 +11,7 @@ npm i zeller --save
 ```
 
 ## Usage 
-This module require three parameters for work and forth for the language.
+This module require three parameters for work and fourth for the language.
 
 
 ## Example
