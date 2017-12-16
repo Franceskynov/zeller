@@ -1,4 +1,4 @@
- # zeller
+ ## zeller
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][npm-url]
@@ -13,6 +13,14 @@ npm i zeller --save
 ## Usage 
 This module require three parameters for work and fourth for the language.
 
+## Languages
+
+| Lang. | Abbr. |
+|------|------|
+|Catalan | ca |
+|English | en |
+|French  | fr |
+|Spanish | es |
 
 ## Example
 
