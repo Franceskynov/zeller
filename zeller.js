@@ -74,6 +74,14 @@ function congruence(day, month, year, lang) {
                     return langs.italian[d];
                     break;
 
+                case "pt":
+                    return langs.portugese[d];
+                    break;
+
+                case "ro": 
+                    return langs.romanian[d];
+                    break;
+
                 default:
                     return langs.english[d];
                     break;

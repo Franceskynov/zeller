@@ -22,6 +22,8 @@ This module require three parameters for work and fourth for the language.
 |French  | fr |
 |Italian | it |
 |Spanish | es |
+|Portuguese|pt|
+|Romanian| ro |
 
 ## Example
 

@@ -43,5 +43,23 @@
         "giovedì",
         "venerdì",
         "sabato"
+    ],
+    "portugese": [
+        "domingo",
+        "segunda-feira",
+        "terça-feira",
+        "quarta-feira",
+        "quinta-feira",
+        "sexta-feira",
+        "sábado"
+    ],
+    "romanian": [
+        "duminică",
+        "luni",
+        "marți",
+        "miercuri",
+        "joi",
+        "vineri",
+        "sâmbătă"
     ]
 }
